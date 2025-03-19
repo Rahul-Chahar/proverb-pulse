@@ -20,7 +20,7 @@
 ## 📷 **Preview**  
 > 🔹 The app has a dark quote container for better visibility, while the outer background changes dynamically.  
 
-![Quote Generator Preview](F:\Code\CHAI-CODE\JS Assignment 3\Random Quotes Generator\Screenshot 2025-03-19 125631.png)  
+![Quote Generator Preview](Screenshot 2025-03-19 125631.png)  
 
 
 ---
