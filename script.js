@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 quoteDisplay.innerText = currentQuote;
                 authorDisplay.innerText = `\n— ${author}`;
 
-                changeColors(); // Change background colors
+                changeColors();
             } else {
                 quoteDisplay.innerText = "Failed to fetch quote. Try again!";
             }
