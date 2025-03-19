@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     let quoteHistory = new Set();
     const historyLimit = 10;
-    const UNSPLASH_ACCESS_KEY = "write key"; // 🔹 Replace with your Unsplash Access Key
+    const UNSPLASH_ACCESS_KEY = "write key"; // 🔹 Replace with your Unsplash Access Key.
 
     async function fetchQuote() {
         try {
