@@ -4,17 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random Quote Generator</title>
-    <link  rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Random Quote Generator</h1>
-        <p id="quoteDisplay">Click the button to get a quote</p>
+
+    <div class="container" id="quoteContainer">
+        <p id="quoteDisplay">Fetching quote...</p>
+        <p id="authorDisplay">— Author</p>
+    </div>
+
+    <div class="buttons">
         <button id="generateButton">New Quote</button>
         <button id="copyButton">Copy</button>
         <button id="tweetButton">Tweet</button>
+        <button id="exportButton">Download</button>
     </div>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
