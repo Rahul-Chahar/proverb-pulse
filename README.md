@@ -3,7 +3,7 @@
 > **A simple web app that fetches random quotes, dynamically changes background colors, and allows users to download the quote as an image.**  
 
 ## 🚀 **Live Demo**  
-👉 *[Click here to see it in action!](#)* *(Replace with actual URL if deployed)*  
+👉 *[Click here to see it in action!](#)* *(https://proverb-pulse.vercel.app/)*  
 
 ---
 
@@ -20,8 +20,8 @@
 ## 📷 **Preview**  
 > 🔹 The app has a dark quote container for better visibility, while the outer background changes dynamically.  
 
-![Quote Generator Preview](https://via.placeholder.com/600x300?text=App+Screenshot)  
-*(Replace with actual screenshot of your app)*  
+![Quote Generator Preview](F:\Code\CHAI-CODE\JS Assignment 3\Random Quotes Generator\Screenshot 2025-03-19 125631.png)  
+
 
 ---
 
